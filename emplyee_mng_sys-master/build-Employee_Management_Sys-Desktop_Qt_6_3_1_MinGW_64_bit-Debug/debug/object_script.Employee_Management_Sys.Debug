@@ -1,0 +1,11 @@
+debug/aboutus.o
+debug/deleteemp.o
+debug/main.o
+debug/mainwindow.o
+debug/search.o
+debug/updateemp.o
+debug/moc_aboutus.o
+debug/moc_deleteemp.o
+debug/moc_mainwindow.o
+debug/moc_search.o
+debug/moc_updateemp.o

@@ -1,0 +1,11 @@
+release/aboutus.o
+release/deleteemp.o
+release/main.o
+release/mainwindow.o
+release/search.o
+release/updateemp.o
+release/moc_aboutus.o
+release/moc_deleteemp.o
+release/moc_mainwindow.o
+release/moc_search.o
+release/moc_updateemp.o
